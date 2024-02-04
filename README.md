@@ -15,11 +15,16 @@ git push -u origin main
 ```
 6. [Create a Vercel Account](https://vercel.com/signup). Use **GitHub** and select **Hobby**.
 7. Click on Import Project.
+   
 ![Import](imgs/1.png)
-8. Click on Import on your project.
+
+9. Click on Import on your project.
+    
 ![Import project](imgs/2.png)
-9. Leave all config on default and click **Deploy**.
-10. Click on the preview of your site to go the your deployed site.
+
+11. Leave all config on default and click **Deploy**.
+12. Click on the preview of your site to go the your deployed site.
+    
 ![Project preview](imgs/3.png)
 
 ## Part 2: Branch Previews

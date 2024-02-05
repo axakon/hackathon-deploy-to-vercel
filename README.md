@@ -28,12 +28,12 @@ git push -u origin main
 ![Project preview](imgs/3.png)
 
 ## Part 2: Branch Previews
-1. Go back to the terimnal inside the project folder.
+1. Go back to the terminal inside the project folder.
 2. Create a new branch.
 ```
 git checkout -b my-new-branch
 ```
-3. Make any change to the file `src\app\page.tsx` so that we can see the difference once it's deployed.
+3. Make any change to the file `app\page.tsx` so that we can see the difference once it's deployed.
 4. Commit and push.
 ```
 git add .
